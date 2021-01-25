@@ -1,5 +1,5 @@
 import time
-import random.randrange
+from random import randrange
 import pyautogui
 
 maps = {
